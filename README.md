@@ -2,6 +2,10 @@
 
 [![smithery badge](https://smithery.ai/badge/@tywenk/mcp-solana)](https://smithery.ai/server/@tywenk/mcp-solana)
 
+<a href="https://glama.ai/mcp/servers/@tywenk/mcp-sol">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@tywenk/mcp-sol/badge" alt="Model Context Protocol Server for Solana Client MCP server" />
+</a>
+
 ### Installing via Smithery
 
 To install mcp-solana for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@tywenk/mcp-solana):
